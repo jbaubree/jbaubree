@@ -1,6 +1,6 @@
 ### Hi there, I'm JB Aubrée 👋
 
-## I'm a Front-end Developer, VueJS, UnoCss, Vite lover.
+## I'm a Front-end Developer, VueJS, UnoCSS, Vite lover.
 
 ---
 
